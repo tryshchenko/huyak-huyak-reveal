@@ -1,0 +1,15 @@
+{
+  "name": "huyak-huyak-reveal",
+  "version": "0.1.0",
+  "description": "Reveal.js boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Tryshchenko <ensaierwa@gmail.com> (tryshchenko.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
