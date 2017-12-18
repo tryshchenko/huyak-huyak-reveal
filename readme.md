@@ -21,3 +21,5 @@ npm install && npm start
 - It is simplified. I removed themes, logic for their selection, etc.
 - Styles for logo of your company on the title page
 - On set of fonts, which are available offline
+- Built-in web server
+- Simplified files structure
