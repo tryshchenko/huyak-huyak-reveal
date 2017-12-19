@@ -1,5 +1,4 @@
-# huyak-huyak-revealjs 🐓
-Huyak-huyak is a russian slang world which means "Something done ASAP without big care about quality".
+# reveal-boilerplate 🐓
 
 It gives you a production-ready configuration of reveal.js which I personally use as the scaffold. It ships with a simple.
 
